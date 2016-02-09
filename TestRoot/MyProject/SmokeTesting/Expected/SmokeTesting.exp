@@ -1,0 +1,19 @@
+Application submitted on client.
+Application submitted successfully.
+TC1-ApplicationSubmission : PASSED
+Server verification successful.
+TC2-ServerVerification : PASSED
+Authentication passed.
+TC3-Authentication : PASSED
+Measurement passed.
+TC3-Measurement: PASSED
+Application execution completed with status passed.
+TC3-Status : PASSED
+Successfully established connection.
+TC4-Myhost1 : PASSED
+Successfully established connection.
+TC5-Myhost2 : PASSED
+Successfully established connection.
+TC6-Myhost3 : PASSED
+Shutdown call to application done.
+TC7-ApplicationCompletion : PASSED
