@@ -7,3 +7,7 @@ function test_log() {
 function test_out(){
     echo -e "$1" | tee -a $LOGFILE $OUTFILE
 }
+
+function report() {
+    echo -e "Reporting"
+}
